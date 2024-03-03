@@ -33,13 +33,11 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-%235849BE.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 
+
+
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Juan8991&show_icons=true&theme=transparent" /></td>
-      <td><img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juan8991&theme=dark&show_icons=true" alt="GitHub Stats">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
   
 <div align="center">

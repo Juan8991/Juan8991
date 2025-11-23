@@ -1,12 +1,12 @@
-<h1 align="center">🌍 Hi 👋, I'm Juan Esteban Ramirez | Full Stack Web Developer 👨‍💻 </h1>
+<h1 align="center">🌍 Hi 👋, I'm Juan Esteban Ramirez | Backend Developer 👨‍💻 </h1>
 <div align="center">
   <img src="assets/2024-03-0219-52-02-ezgif.com-optimize.gif"/>
 </div>
 
 <pre>
-💻 I am developing my skills as a Full Stack Developer | Enthuastic about new technologies
+💻 I am developing my skills as a Backend Developer | Enthuastic about new technologies
 🌱 Focusing on Learning about people needs and making their lives easier
-🌟 Interested in full stack web development and machine learning application development
+🌟 Interested in web development and machine learning application development
 </pre>
 
 ## 🚀 Technologies & Tools

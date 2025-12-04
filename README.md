@@ -34,7 +34,6 @@
 
 ## :octocat: GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan8991&theme=dark&show_icons=true" alt="GitHub Stats">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
   

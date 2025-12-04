@@ -4,9 +4,7 @@
 </div>
 
 <pre>
-💻 I am developing my skills as a Backend Developer | Enthuastic about new technologies
-🌱 Focusing on Learning about people needs and making their lives easier
-🌟 Interested in web development and machine learning application development
+💻 Backend Engineer with 3 years of experience in technologies like Java, PHP, Node.js, and Python, using frameworks like Spring Boot, Laravel, Express, and FastAPI specialized in Kubernetes-based microservice architectures deployed on-premise with cloud providers like AWS, and GCP delivering significant performance improvements: reduced API response times from 1.8s to 300ms, increased order processing capacity from 300 to 5,000+ per day, and slashed invoice processing time by 85% (6h to 50min) for 25K+ monthly records using a Spring Batch ETL pipeline.
 </pre>
 
 ## 🚀 Technologies & Tools
